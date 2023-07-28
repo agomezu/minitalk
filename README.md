@@ -1,4 +1,4 @@
-# Minitalk
+# minitalk
 
 Minitalk is a simple client-server communication system that uses UNIX signals for transmitting data.
 
